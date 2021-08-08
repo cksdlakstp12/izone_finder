@@ -1,0 +1,8 @@
+selenium
+urllib3
+opencv-python
+numpy
+pandas
+future
+torch
+torchvision
